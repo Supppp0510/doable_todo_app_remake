@@ -130,6 +130,8 @@ Berikut adalah beberapa tampilan aplikasi:
 <img src="img/Home.png" style="height:40vh; width:auto;"> 
 <img src="img/AddTask.png" style="height:40vh; width:auto;"> 
 <img src="img/FilterTask.png" style="height:40vh; width:auto;"> 
+<img src="img/Notif.png" style="height:40vh; width:auto;">
+<img src="img/Hapus.png" style="height:40vh; width:auto;">
 <img src="img/Profil.png" style="height:40vh; width:auto;">
 </p>
 
