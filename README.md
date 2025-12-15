@@ -17,7 +17,6 @@
   </p>
 
 <a href="https://github.com/Supppp0510/doable_todo_app_remake">![GitHub repo size](https://img.shields.io/github/repo-size/Supppp0510/doable_todo_app_remake)
-<a href="https://github.com/Supppp0510/doable_todo_app_remake/issues">![GitHub contributors](https://img.shields.io/github/contributors/Supppp0510/doable_todo_app_remake)
 <a href="https://github.com/Supppp0510/doable_todo_app_remake">![GitHub stars](https://img.shields.io/github/stars/Supppp0510/doable_todo_app_remake?style=social)
 <a href="https://github.com/Supppp0510/doable_todo_app_remake">![GitHub forks](https://img.shields.io/github/forks/Supppp0510/doable_todo_app_remake?style=social)
 <br>
