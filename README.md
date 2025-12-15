@@ -8,7 +8,7 @@
 <h3 align="center">Doable Todo List App - Remake/Test Project</h3>
 
   <p align="center">
-    💡 Aplikasi Todo List Online/Cloud menggunakan **Flutter** dan **Firebase** (Proyek Remake untuk tujuan pengujian).
+    💡 Aplikasi Todo List Online/Cloud menggunakan Flutter dan Firebase (Proyek Remake untuk tujuan pengujian).
     <br />
     <br>
     <a href="https://github.com/Supppp0510/doable_todo_app_remake/issues">Laporkan Bug</a>
