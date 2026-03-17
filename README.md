@@ -147,4 +147,11 @@ Berikut adalah beberapa tampilan aplikasi:
 * Proyek ini didasarkan pada repositori milik **Akhin Abraham** di [https://github.com/theakhinabraham/doable-todo-list-app](https://github.com/theakhinabraham/doable-todo-list-app).
 * **Lisensi:** Proyek ini mengikuti Lisensi MIT dari repositori aslinya.
 
+## 👥 Kontributor Project
+
+* **[Supppp0510](https://github.com/Supppp0510)** — *Front End Developer*
+* **[NabellaPutriA](https://github.com/NabellaPutriA)** — *Documentation*
+* **[ahjinero](https://github.com/ahjinero)** — *Backend Developer*
+* **[fandipras](https://github.com/fandipras)** — *UI/UX Designer*
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
